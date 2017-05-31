@@ -8,3 +8,7 @@ I changed this directly on GitHub because that was easier than getting one of yo
 New change!
 
 Change by my project partner
+
+int doit() {
+  // here is my method in my code that I am writing.
+}
