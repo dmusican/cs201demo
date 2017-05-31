@@ -1,4 +1,8 @@
 # cs201demo
+int yourgreatcode() {
+  Systm.kj.out.ewhwq.t() yay!
+}
+
 I am working on some code
 System.out.println("yay!");
 oops bad java no main
