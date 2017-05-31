@@ -14,5 +14,5 @@ New change!
 Change by my project partner
 
 int doit() {
-  // here is my change in my code that I am writing.
+  // here is my change in my program that I am writing.
 }
